@@ -134,8 +134,8 @@ Raw data with 3,069 rows, one per subscription:
 ## Author
 
 **Soroush**
-- Upwork: `<your profile link>`
-- LinkedIn: `<your profile link>`
-- Email: `<your email>`
+- Upwork:https://www.upwork.com/freelancers/~0124871fd1f5602bed
+- LinkedIn:https://www.linkedin.com/in/soroush-ahmadifar
+- Email:<Soroushah2003@gmail.com>
 
-*Open to freelance data analysis and Excel dashboard projects.*
+
